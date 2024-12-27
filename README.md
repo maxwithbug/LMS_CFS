@@ -13,3 +13,4 @@ plugins and dep
         js-2 chart.js daisyui axios react-hot-toast @tailwind/line-clamp
 
 ```
+
